@@ -1,1 +1,1 @@
-# -jd02_News-Portal-Project-v1.2
+# jd02_News-Portal-Project-v1.2
